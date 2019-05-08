@@ -1,0 +1,38 @@
+\\hgs6\users$\students\11\11chargreaves\my documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+\\hgs6\users$\students\11\11chargreaves\my documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+\\hgs6\users$\students\11\11chargreaves\my documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+\\hgs6\users$\students\11\11chargreaves\my documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+\\hgs6\users$\students\11\11chargreaves\my documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+\\hgs6\users$\students\11\11chargreaves\my documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+\\hgs6\users$\students\11\11chargreaves\my documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+U:\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+U:\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+U:\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+U:\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+U:\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+U:\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+U:\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+U:\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DisplayImage.resources
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.SettingsForm.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.DisplayImage.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.SettingsForm.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

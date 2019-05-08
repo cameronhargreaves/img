@@ -1,0 +1,3 @@
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\Interop.WMPLib.dll
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\AxInterop.WMPLib.dll
+\\hgs6\users$\Students\11\11chargreaves\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.csproj.ResolveComReference.cache
